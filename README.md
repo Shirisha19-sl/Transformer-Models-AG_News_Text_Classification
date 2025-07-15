@@ -5,6 +5,9 @@ Categories: World, Sports, Business, Science
 Techniques: Machine Learning & Deep Learning
 Tools: Python, NLTK, Pandas, Seaborn, WordCloud
 
+## Dataset Used
+- <a href="https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset">Dataset</a>
+
 ## Dataset Description
 Format: CSV with columns - index, title, description
 Merged 'title' and 'description' into a single text column
